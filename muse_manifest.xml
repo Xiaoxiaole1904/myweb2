@@ -1,11 +1,11 @@
-<manifest alg="2" build="2017.0.4.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="myweb2.html" resolutions="1x" timestamp="1500447018294">
+<manifest alg="2" build="2017.0.4.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="myweb2.html" resolutions="1x" timestamp="1500449397707">
   <folder name="css">
     <file name="site_global.css" crc="3812118739"/>
     <file name="master_a-master.css" crc="4181056387" ref="xiangqing:gerenzhongxin:gouwuche:index:fenlei:liebiao"/>
     <file name="xiangqing.css" crc="4252705600" ref="xiangqing"/>
     <file name="gerenzhongxin.css" crc="4252705600" ref="gerenzhongxin"/>
     <file name="gouwuche.css" crc="4252705600" ref="gouwuche"/>
-    <file name="index.css" crc="4157228676" ref="index"/>
+    <file name="index.css" crc="369949433" ref="index"/>
     <file name="fenlei.css" crc="4281654753" ref="fenlei"/>
     <file name="liebiao.css" crc="4252705600" ref="liebiao"/>
   </folder>
@@ -32,7 +32,7 @@
       <caption webpage="fenlei" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="146136716" seo="true" mt="1500447016567" redirect="true"/>
+  <file name="index.html" crc="286585025" seo="true" mt="1500449353674" redirect="true"/>
   <file name="fenlei.html" crc="98088952" seo="true" mt="1500436379714" redirect="true"/>
   <file name="liebiao.html" crc="4132857380" seo="true" mt="1500431590608" redirect="true"/>
   <file name="xiangqing.html" crc="4284100414" seo="true" mt="1500431590608" redirect="true"/>
