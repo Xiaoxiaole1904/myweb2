@@ -1,0 +1,41 @@
+<manifest alg="2" build="2017.0.4.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="myweb2.html" resolutions="1x" timestamp="1500447018294">
+  <folder name="css">
+    <file name="site_global.css" crc="3812118739"/>
+    <file name="master_a-master.css" crc="4181056387" ref="xiangqing:gerenzhongxin:gouwuche:index:fenlei:liebiao"/>
+    <file name="xiangqing.css" crc="4252705600" ref="xiangqing"/>
+    <file name="gerenzhongxin.css" crc="4252705600" ref="gerenzhongxin"/>
+    <file name="gouwuche.css" crc="4252705600" ref="gouwuche"/>
+    <file name="index.css" crc="4157228676" ref="index"/>
+    <file name="fenlei.css" crc="4281654753" ref="fenlei"/>
+    <file name="liebiao.css" crc="4252705600" ref="liebiao"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:fenlei:liebiao:xiangqing:gouwuche:gerenzhongxin"/>
+    <file name="museutils.js" crc="4216313831" ref="index:fenlei:liebiao:xiangqing:gouwuche:gerenzhongxin"/>
+    <file name="whatinput.js" crc="86476730" ref="index:fenlei:liebiao:xiangqing:gouwuche:gerenzhongxin"/>
+    <file name="museconfig.js" crc="474374037" ref="index:fenlei:liebiao:xiangqing:gouwuche:gerenzhongxin"/>
+    <file name="jquery.watch.js" crc="460461809" ref="index:fenlei:liebiao:xiangqing:gouwuche:gerenzhongxin"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4110862005" ref="index:fenlei"/>
+    <file name="jquery.musemenu.js" crc="493622299" ref="index:fenlei:liebiao:xiangqing:gouwuche:gerenzhongxin"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:fenlei:liebiao:xiangqing:gouwuche:gerenzhongxin"/>
+    <file name="require.js" crc="3951022091" ref="index:fenlei:liebiao:xiangqing:gouwuche:gerenzhongxin"/>
+    <file name="webpro.js" crc="4143865194" ref="fenlei"/>
+    <file name="musewpslideshow.js" crc="3781122836" ref="fenlei"/>
+    <file name="jquery.museoverlay.js" crc="4030747646" ref="fenlei"/>
+    <file name="touchswipe.js" crc="4200445185" ref="fenlei"/>
+  </folder>
+  <folder name="images">
+    <file name="586b4959492ff.jpg" crc="3906738365" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="center.jpg" crc="3703134" ref="fenlei">
+      <caption webpage="fenlei" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="146136716" seo="true" mt="1500447016567" redirect="true"/>
+  <file name="fenlei.html" crc="98088952" seo="true" mt="1500436379714" redirect="true"/>
+  <file name="liebiao.html" crc="4132857380" seo="true" mt="1500431590608" redirect="true"/>
+  <file name="xiangqing.html" crc="4284100414" seo="true" mt="1500431590608" redirect="true"/>
+  <file name="gouwuche.html" crc="3876433420" seo="true" mt="1500431590608" redirect="true"/>
+  <file name="gerenzhongxin.html" crc="4111161958" seo="true" mt="1500431590608" redirect="true"/>
+</manifest>
